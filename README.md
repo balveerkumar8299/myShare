@@ -1,5 +1,6 @@
 # myShare
-Simple file sharing web app with using backend framwork.
+Rest api using Node, Express, Mongo. We will build rest api for a simple file sharing app.
+
 
 In this project we will build APIs for a file sharing app using Node Js, Express Js and Mongo DB. 
 
